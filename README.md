@@ -16,20 +16,6 @@ It supports multiple modulation schemes and channel models with **BER vs SNR per
 
 ---
 
-##  Project Structure
-```text
-matlab-ber-performance-analyzer/
-│
-├── BERAnalyzer.m
-├── testBERAnalyzer.m
-├── README.md
-├── command_line_output.txt
-│
-├── results/
-│   ├── ber_vs_modulation_order.png
-│   ├── required_snr_analysis.png
-│   └── test_result.png
-```
 
 ---
 
@@ -40,7 +26,7 @@ Run the test script in MATLAB:
 run('testBERAnalyzer.m')
 ```
 
----
+
 
 ## OUTPUTS 
 ### BER vs Modulation index 
