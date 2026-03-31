@@ -17,8 +17,6 @@ It supports multiple modulation schemes and channel models with **BER vs SNR per
 ---
 
 
----
-
 ##  How to Run
 Run the test script in MATLAB:
 
@@ -26,7 +24,7 @@ Run the test script in MATLAB:
 run('testBERAnalyzer.m')
 ```
 
-
+---
 
 ## OUTPUTS 
 ### BER vs Modulation index 
