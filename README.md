@@ -43,13 +43,12 @@ run('testBERAnalyzer.m')
 ---
 
 ## OUTPUTS 
-### MODULATION ORDER AT DIFFERENT INDEX
+### BER vs Modulation index 
 ![Processor Screenshot](https://github.com/shreyasingh2302vl10/Bit_Error_Rate_Analyser/blob/fdcc8f9edcc2bce91683af84d63c8463b742d125/BER_Modulation_Index.png)
 ### BER vs SNR 
 ![Processor Screenshot](https://github.com/shreyasingh2302vl10/Bit_Error_Rate_Analyser/blob/fdcc8f9edcc2bce91683af84d63c8463b742d125/BER_SNR.png)
-### MODULATION ORDER AT DIFFERENT INDEX
-![Processor Screenshot](https://github.com/shreyasingh2302vl10/Bit_Error_Rate_Analyser/blob/fdcc8f9edcc2bce91683af84d63c8463b742d125/Screenshot%202026-03-31%20202139.png)
-
+### SNR vs MODULATION SCHEME
+![Processor Screenshot](https://github.com/shreyasingh2302vl10/Bit_Error_Rate_Analyser/blob/9d07950ec53bf6a0df060ec606e1482b4adfd761/Screenshot%202026-03-31%20202209.png)
 ##  Applications
 - Digital communication systems
 - Wireless receiver analysis
